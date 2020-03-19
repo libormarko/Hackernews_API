@@ -14,7 +14,7 @@ A front-end JavaScript web development project. I wrote a blog post about this p
 
 To run the app on your local machine, do following steps:
 1. Clone the repository with `git clone git@github.com:libormarko/Hackernews_API.git`
-2. Set current directory to be the projects directory: `cd Hackernews_API`
+2. Set current directory to be the project's directory: `cd Hackernews_API`
 3. Run `npm install`
 4. Run `npm start`
 5. The app runs on your [localhost](http://localhost:3000/).
