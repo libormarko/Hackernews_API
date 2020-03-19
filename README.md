@@ -1,10 +1,13 @@
 # Hackernews API Project
 
-A front-end JavaScript web development project. I wrote a blog post about this project, where you can read about programming concepts I used and about app's features and functionality. You can find it on my [medium profile]().
+A front-end JavaScript web development project. I wrote a blog post about this project, where you can read about programming concepts I used and about app's features and functionality. You can find it on my [medium profile](https://medium.com/@marko.libor/api-project-hackernews-e9213cfe7c0c).
 
 ## Technologies used
+* Heroku
+* NPM
 * REST API
 * JSON
+* ES6
 * React.JS
 * JavaScript 
 * HTML5
